@@ -1,4 +1,5 @@
-FAQ
+**FAQ**
+
 ​Q: Does the software contain viruses?
 A: Absolutely not. I generate revenue through the 10-second ads that you skip, which eliminates any reason or intent to include malicious code in the software.
 
