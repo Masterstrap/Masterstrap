@@ -1,11 +1,14 @@
 <div align="center">
 
-<img src="https://media.discordapp.net/attachments/1465013576682180822/1489437156727324852/Untitled_image.png?ex=6a14f7f2&is=6a13a672&hm=f92e54ac6328f324a28bebaff2699a94114c6d70d252272bb26e74167f04acbf&=&format=webp&quality=lossless&width=1920&height=1920" alt="Logo" width="160" />
+<img src="https://media.discordapp.net/attachments/1465013576682180822/1489437156727324852/Untitled_image.png?ex=6a14f7f2&is=6a13a672&hm=f92e54ac6328f324a28bebaff2699a94114c6d70d252272bb26e74167f04acbf&=&format=webp&quality=lossless&width=1920&height=1920" alt="Logo" width="160" /> 
 
 # Masterstrap
 
 *A modern, fast, and secure bootstrapper / fastflag manager for Roblox.*
 
+[![License](https://img.shields.io/github/license/Masterstrap/Masterstrap?color=green)](https://github.com/Masterstrap/Masterstrap/blob/main/LICENSE)
+[![Latest Release](https://img.shields.io/github/v/release/Masterstrap/Masterstrap?color=blueviolet&label=release)](https://github.com/Masterstrap/Masterstrap/releases)
+[![Discord](https://img.shields.io/badge/discord-10k_online-blue?logo=discord&logoColor=white)](https://discord.com/invite/T7ntt9dq3e)
 </div>
 
 ---
