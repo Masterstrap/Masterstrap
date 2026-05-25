@@ -1,2 +1,38 @@
-Why doesn't this project have open source code, because all open source code contains a database (where to manage keys). If I leak this open source code, the entire project will be revealed and seriously affect my revenue, and more importantly, bad guys who have my source code will create a 100% copy and will attach malware or miners to the software and distribute it for free.
-Therefore, revealing open source code is completely impossible for these repositories
+<div align="center">
+
+<img src="https://media.discordapp.net/attachments/1465013576682180822/1489437156727324852/Untitled_image.png?ex=6a14f7f2&is=6a13a672&hm=f92e54ac6328f324a28bebaff2699a94114c6d70d252272bb26e74167f04acbf&=&format=webp&quality=lossless&width=1920&height=1920" alt="Logo" width="160" />
+
+# Masterstrap
+
+*A modern, fast, and secure bootstrapper / fastflag manager for Roblox.*
+
+</div>
+
+---
+
+## What Is Masterstrap
+
+Masterstrap is a clean, fast, and extensible alternative bootstrapper and FastFlag manager for Roblox. Designed to optimize performance and elevate your in-game experience, it provides a secure environment to manage client configurations safely.
+
+## Key Features
+
+* **Advanced FFlag Editor** — Easily search, toggle, and persist fastflags to optimize performance.
+* **Enhanced Client Security** — Fully compliant with standard configurations, ensuring a safe and seamless experience.
+* **Built-in Presets** — Access a curated list of performance-boosting flags directly in the software.
+* **Mod Management** — Customize your game with drop-in mods (skyboxes, custom cursors, textures, and shiftlock tweaks).
+
+---
+
+## 🛠️ Installation & Usage
+
+Go to the [Releases](https://github.com/Masterstrap/Masterstrap/releases) page and download the latest version of `MasterstrapSetup.exe`.
+
+---
+
+## Community & Support
+* Join the Masterstrap Discord https://discord.gg/masterstrap to get updates, discuss development, and share FastFlags
+
+---
+
+## Developers
+* [Dan](https://discord.com/users/923252600952979477)
