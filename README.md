@@ -1,8 +1,9 @@
 <div align="center">
 
-<img src="https://media.discordapp.net/attachments/1465013576682180822/1489437156727324852/Untitled_image.png?ex=6a14f7f2&is=6a13a672&hm=f92e54ac6328f324a28bebaff2699a94114c6d70d252272bb26e74167f04acbf&=&format=webp&quality=lossless&width=1920&height=1920" alt="Logo" width="160" /> 
-
-# Masterstrap
+<p align="center">
+    <img src="https://github.com/Masterstrap/Masterstrap/blob/main/masterstrap%20white.png#gh-dark-mode-only" width="380">
+    <img src="https://github.com/Masterstrap/Masterstrap/blob/main/masterstrap%20black.png#gh-light-mode-only" width="380">
+</p>
 
 *A modern, fast, and secure bootstrapper / fastflag manager for Roblox.*
 
