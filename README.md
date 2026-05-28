@@ -8,7 +8,7 @@
 *A modern, fast, and secure bootstrapper / fastflag manager for Roblox.*
 
 [![License](https://img.shields.io/github/license/Masterstrap/Masterstrap?color=green)](https://github.com/Masterstrap/Masterstrap/blob/main/LICENSE)
-[![Latest Release](https://img.shields.io/github/v/release/Masterstrap/Masterstrap?color=blueviolet&label=release)](https://github.com/Masterstrap/Masterstrap/releases)
+[![Latest Release](https://img.shields.io/badge/release-v3.1.4-blueviolet)](https://github.com/Masterstrap/Masterstrap/releases)
 [![Discord](https://img.shields.io/badge/discord-10k_online-blue?logo=discord&logoColor=white)](https://discord.com/invite/T7ntt9dq3e)
 </div>
 
