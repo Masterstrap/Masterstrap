@@ -14,9 +14,9 @@
 
 ---
 
-## What Is Masterstrap
+## **What Is Masterstrap**
 
-Masterstrap is a clean, fast, and extensible alternative bootstrapper and FastFlag manager for Roblox. Designed to optimize performance and elevate your in-game experience, it provides a secure environment to manage client configurations safely.
+**Masterstrap is a strictly paid to use software, operated under a commercial model where your subscription directly funds continuous security auditing and high end development. Unlike generic free utilities that cost nothing but often compromise your system with unverified background scripts or hidden security risks, Masterstrap delivers a premium, risk free environment. By choosing a paid solution, you are investing in absolute data integrity and verified system protection.**
 
 ---
 
@@ -71,16 +71,22 @@ Masterstrap is a clean, fast, and extensible alternative bootstrapper and FastFl
   </tr>
 </table>
 </details>
----
 
 ---
 
-## Key Features
+## ✨ Key Features
 
-* **Advanced FFlag Editor** — Easily search, toggle, and persist fastflags to optimize performance.
-* **Enhanced Client Security** — Fully compliant with standard configurations, ensuring a safe and seamless experience.
-* **Built-in Presets** — Access a curated list of performance-boosting flags directly in the software.
-* **Mod Management** — Customize your game with drop-in mods (skyboxes, custom cursors, textures, and shiftlock tweaks).
+| | Tabs | Function |
+| :---: | :--- | :--- |
+| ⚖ | **Home** | Where to upload your configurations, update server addresses and bootstrapper settings |
+| ⚡ | **FastFlag** | Where you can manage your fastflag without editing the original file |
+| 🛠️ | **FastFlag Settings** | You can edit some flags available in the software |
+| 🌍 | **Global** | Set up preset settings in roblox |
+| 🎮 | **Game Presets** | Using the flags available in the software is extremely effective for each game |
+| ⚙ | **Customizations** | Visual tweaks in roblox game safe (skybox, crosshair, cursor mouse) |
+| 🎨 | **UI Themes** | Easy-to-see interface, optimized user RAM and CPU |
+| 🔒 | **Secure & Optimized** | Secure & Optimized | Reliable, lightweight deployment pipeline with background execution |
+| 📦 | **Auto Update** | Every version of Roblox will automatically update |
 
 ---
 
