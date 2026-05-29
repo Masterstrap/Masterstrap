@@ -16,7 +16,7 @@
 
 ## **What Is Masterstrap**
 
-**Masterstrap is a strictly paid to use software, operated under a commercial model where your subscription directly funds continuous security auditing and high end development. Unlike generic free utilities that cost nothing but often compromise your system with unverified background scripts or hidden security risks, Masterstrap delivers a premium, risk free environment. By choosing a paid solution, you are investing in absolute data integrity and verified system protection.**
+**Masterstrap is an open source project distributed under a commercial model where we sell the compiled software. By making the source code fully public, we ensure absolute transparency and proven security, delivering a premium, risk free environment unlike generic free utilities that often compromise your system with unverified hidden scripts.**
 
 ---
 
