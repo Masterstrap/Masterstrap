@@ -9,7 +9,7 @@
 
 [![Downloads](https://img.shields.io/badge/downloads-400k-white)](https://github.com/Masterstrap/Masterstrap/releases/tag/Masterstrap)
 [![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/Masterstrap/Masterstrap/blob/main/LICENSE)
-[![Latest Release](https://img.shields.io/badge/release-v3.1.4-blueviolet)](https://github.com/Masterstrap/Masterstrap/releases)
+[![Latest Release](https://img.shields.io/badge/release-v3.2.2-blueviolet)](https://github.com/Masterstrap/Masterstrap/releases)
 [![Discord](https://img.shields.io/badge/discord-10k_online-blue?logo=discord&logoColor=white)](https://discord.com/invite/T7ntt9dq3e)
 </div>
 
